@@ -1,4 +1,4 @@
-<h1>Hi, I'm Sebastian! <br/<a href="www.linkedin.com/in/sebastian-torres-3282a2279">Cybersecurity Professional</a></h1>
+<h1>Hi, I'm Sebastian! <br><a href="www.linkedin.com/in/sebastian-torres-3282a2279">Cybersecurity Professional</a></h1>
 
 <h2>👨‍💻 Cybersecurity Projects:</h2>
 
