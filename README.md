@@ -10,6 +10,7 @@
 - [CompTIA A+](https://www.youtube.com/watch?v=a83ASGn_V_s)
 - [CompTIA Network+](https://www.youtube.com/watch?v=a83ASGn_V_s)
 - [CompTIA Security+](https://www.youtube.com/watch?v=a83ASGn_V_s)
+- [CompTIA Secure Infrastructure Specialist](https://www.youtube.com/watch?v=a83ASGn_V_s](https://www.credly.com/badges/ca99382a-91d3-43ee-89c2-e2eb56265124/public_url))
   
 <h2>📺 Popular YouTube Videos</h2>
 
